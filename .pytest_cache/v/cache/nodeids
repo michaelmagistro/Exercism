@@ -1,0 +1,21 @@
+[
+  "python/hello-world/hello_world_test.py::HelloWorldTest::test_say_hi",
+  "python/high-scores/high_scores_test.py::HighScoresTest::test_latest_score",
+  "python/high-scores/high_scores_test.py::HighScoresTest::test_personal_best",
+  "python/high-scores/high_scores_test.py::HighScoresTest::test_personal_top_highest_to_lowest",
+  "python/high-scores/high_scores_test.py::HighScoresTest::test_personal_top_three_from_a_list_of_scores",
+  "python/high-scores/high_scores_test.py::HighScoresTest::test_personal_top_when_there_are_less_than_3",
+  "python/high-scores/high_scores_test.py::HighScoresTest::test_personal_top_when_there_is_a_tie",
+  "python/high-scores/high_scores_test.py::HighScoresTest::test_personal_top_when_there_is_only_one",
+  "python/matrix/matrix_test.py::MatrixTest::test_can_extract_column",
+  "python/matrix/matrix_test.py::MatrixTest::test_can_extract_column_from_non_square_matrix",
+  "python/matrix/matrix_test.py::MatrixTest::test_can_extract_row",
+  "python/matrix/matrix_test.py::MatrixTest::test_can_extract_row_from_non_square_matrix",
+  "python/matrix/matrix_test.py::MatrixTest::test_extract_column_from_one_number_matrix",
+  "python/matrix/matrix_test.py::MatrixTest::test_extract_column_where_numbers_have_different_widths",
+  "python/matrix/matrix_test.py::MatrixTest::test_extract_row_from_one_number_matrix",
+  "python/matrix/matrix_test.py::MatrixTest::test_extract_row_where_numbers_have_different_widths",
+  "python/two-fer/two_fer_test.py::TwoFerTest::test_a_name_given",
+  "python/two-fer/two_fer_test.py::TwoFerTest::test_another_name_given",
+  "python/two-fer/two_fer_test.py::TwoFerTest::test_no_name_given"
+]
