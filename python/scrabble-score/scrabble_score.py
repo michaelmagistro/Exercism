@@ -5,5 +5,5 @@ def score(word):
     score = 0
     for i in word:
         for j in range(score_brackets):
-             if i.lower() in letters[j].lower(): score += points[j]
+            if i.lower() in letters[j].lower(): score += points[j]
     return score
